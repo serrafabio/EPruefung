@@ -1,5 +1,8 @@
 # EPruefung
-Software developed to help the devices verification inside the labor ETA-FABRIK-TU Darmstadt. All rights belongs to the PTW-Institut from Technische Universität Darmstadt. The Software distribution is prohibit without the concern of the Insitute.
+Software developed to help the HiWi Auxiliar students to execute the verification of electronic devices of the Institute PTW of Technische Universität Darmstadt. This Software is able to help the supervisors with their issues also.
+
+All rights belong to PTW Institute - Technische Universität Darmstadt
+
 
 This File contends the instruction to install all the packages required to use the Software EPrüfung.
 
