@@ -1,0 +1,23 @@
+login: hiwiEPruefung@outlook.de 
+
+password: ltwitwPTW 
+
+smtp_config: smtp.office365.com 
+
+port: 587 
+
+
+
+''' 
+
+You can change the Set-Up of the e-mail.
+
+Please don't change the positions of the script and maintain the space between the decription 
+
+and the object of mainpulation.
+
+Any doubt you can access the e-mail and review this values in the configuration data.
+
+Attention: do not change neither the name of the file nor the name of the folder
+
+'''

@@ -1,0 +1,10 @@
+Fabio Serra Pereira: serrafabio10@outlook.com
+
+
+''' 
+Here we can insert the e-mail, which will always receive the e-mail.
+Please maintain the ':' between the name and e-mail
+The Message can be changed as you want.
+Attencion: Maintain the distance between this message and the contacts.
+Attention: do not change neither the name of the file nor the name of the folder
+'''
